@@ -2,7 +2,7 @@
 - 👀 I’m interested in FRONT END DEVELOPMENT 
 - 🌱 I’m currently learning ENGINEEERING IN VTU UNIVERSITY
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me shreedwajdjs5@gmail.com
 
 <!---
 dwaj5/dwaj5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
